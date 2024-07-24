@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1600737982 source:c:\users\marcilene\desktop\loja-de- discos-llpa v1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<dos.h>
+
+1606169260 source:c:\users\faelr\desktop\cefet\llpa\loja de discos llpa\loja-de- discos-llpa v1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<direct.h>
+	<string.h>
+	<time.h>
+
+1614614432 source:c:\users\faelr\desktop\cefet\llpa\loja de discos llpa\zdisc - chord\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<direct.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
